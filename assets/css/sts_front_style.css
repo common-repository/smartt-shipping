@@ -1,0 +1,5 @@
+.woocommerce-shipping-methods{
+	max-height: 200px !important;
+    overflow: auto !important;
+    margin-bottom: 50px !important;
+}
